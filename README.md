@@ -8,4 +8,5 @@ Input the ONE location of latitude and longitude to get the surrounding faciliti
  2. latitude
  3. longitude
 ### Output (excel file):
- feature: amenity, office, brand, tourism, highway, tourism, shop
+ 1. Amenity : amenity, office, brand, tourism, highway, tourism, shop.
+ 2. Frequency (of Amenity)
